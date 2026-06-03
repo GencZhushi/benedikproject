@@ -1,0 +1,7 @@
+# Netlify configuration for this Next.js app.
+# Netlify auto-detects Next.js and installs its Next.js Runtime.
+# This site has no API routes and needs no environment variables.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
