@@ -46,7 +46,7 @@ export default function Home() {
         <footer className="relative z-10 mt-14 text-center text-xs text-forest-100/70">
           <p>
             &copy; {year} {siteConfig.professorName}
-            {siteConfig.universityName ? ` · ${siteConfig.universityName}` : ""}
+            {siteConfig.universityName ? ` - ${siteConfig.universityName}` : ""}
           </p>
         </footer>
       )}

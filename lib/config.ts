@@ -6,7 +6,7 @@
  */
 export const siteConfig = {
   /** Professor name, used in the heading and footer. */
-  professorName: "Professor Benedikt",
+  professorName: "Prof. Dr. phil. Hans-Peter Benedikt",
 
   /** The digital assistant's name (emphasized in the heading). */
   assistantName: "Nicol AI",
@@ -15,7 +15,7 @@ export const siteConfig = {
   headingPrefix: "Chat with Professor Benedikt's digital assistant,",
 
   /** University / faculty name shown in the footer (leave "" to hide). */
-  universityName: "University of Puerto Rico",
+  universityName: "Hochschule für nachhaltige Entwicklung Eberswalde",
 
   /**
    * Professor portrait shown at the top of the page.
