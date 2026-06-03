@@ -28,7 +28,7 @@ export const siteConfig = {
    * Open your chat/GPT, click "Share", copy the public link, and paste it here.
    */
   customGptUrl:
-    "https://chatgpt.com/g/g-6a1ff5c3b1cc8191913be4029eeae81a-professor-benedics-lectures",
+    "https://chatgpt.com/g/g-6a1ff5c3b1cc8191913be4029eeae81a-nicol-ai",
 
   /** Label for the button shown under each video (opens the chat in a new tab). */
   chatButtonLabel: "Open Chat",
